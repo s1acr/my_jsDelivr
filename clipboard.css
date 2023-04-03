@@ -3,6 +3,7 @@
     position: relative;
 }
 .btn-copy {
+    cursor: pointer;
       border-radius: 3px;
     border-width: 0px;
     font-size: 21px;
