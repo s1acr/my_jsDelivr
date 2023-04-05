@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Baloo_Paaji_2';
+  font-style: normal;
+  src: local('Baloo_Paaji_2'), url("Baloo_Paaji_2/BalooPaaji2-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: 'Caveat';
+  font-style: normal;
+  src: local('Caveat'), url("Caveat/Caveat-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  src: local('Inconsolata'), url("Inconsolata/Inconsolata-VariableFont_wdth,wght.ttf");
+}
+
+
+@font-face {
+  font-family: 'Josefin_Sans';
+  font-style: normal;
+  src: local('Josefin_Sans'), url("Josefin_Sans/JosefinSans-Italic-VariableFont_wght.ttf"), url("Josefin_Sans/JosefinSans-Italic-VariableFont_wght.ttf");
+}
+
+
+@font-face {
+  font-family: 'Lobster';
+  font-style: normal;
+  src: local('Lobster'), url("Lobster/Lobster-Regular.ttf");
+}
+
