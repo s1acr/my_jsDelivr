@@ -30,3 +30,17 @@
   src: local('Lobster'), url("Lobster/Lobster-Regular.ttf");
 }
 
+
+@font-face {
+  font-family: 'ZCOOL_XiaoWei';
+  font-style: normal;
+  src: local('ZCOOL_XiaoWei'), url("ZCOOL_XiaoWei/ZCOOLXiaoWei-Regular.ttf");
+}
+
+
+@font-face {
+  font-family: 'Ma_Shan_Zheng';
+  font-style: normal;
+  src: local('Ma_Shan_Zheng'), url("Ma_Shan_Zheng/MaShanZheng-Regular.ttf");
+}
+
