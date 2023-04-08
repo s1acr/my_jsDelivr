@@ -155,10 +155,8 @@ function startSakura() {
 
 window.onload = function () {
 	var isClick = true
-	console.log(111)
 	var sunflower = document.getElementById('sunflowerArea')
 	sunflower.addEventListener('click', () => {
-		console.log(222)
 		if (isClick) {
 			startSakura()
 			isClick = false
