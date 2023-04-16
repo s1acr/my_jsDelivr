@@ -8,7 +8,8 @@ html {
 
 @media (min-width: 676px) {
   .φm {
-    min-width: 780px !important;
+    min-width: 830px !important;
+    transform: translateX(-80px);
   }
 }
 
@@ -17,8 +18,8 @@ html {
   color: #7c46dd !important;
 }
 
-.φdq {
-  width: 290px !important;
+.φdq.φdr {
+  width: 300px !important;
 }
 
 #sunflower {
