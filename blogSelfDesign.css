@@ -1,16 +1,21 @@
-html {
-  font-size: 14.5px !important;
-}
-
-/* .φdg {
-  width: 299px !important;
-}
-
 @media (min-width: 676px) {
-  .φm {
-    min-width: 830px !important;
+  html {
+    font-size: 16px !important;
   }
-} */
+
+  .φm {
+    min-width: 900px !important;
+    transform: translateX(-40px);
+  }
+
+  .φn {
+    transform: translateX(50px);
+  }
+
+  .φdg {
+    width: 320px !important;
+  }
+}
 
 .vmeta > span.vat {
   font-size: 0.95rem !important;
@@ -24,8 +29,8 @@ html {
 #sunflower {
   font-size: 1.2rem;
   cursor: pointer;
-/* }
+}
 
-is-r.φet {
+/* is-r.φet {
   transform: translateX(25px);
 } */
