@@ -1,8 +1,8 @@
 html {
-  font-size: 15px !important;
+  font-size: 14.5px !important;
 }
 
-.φdg {
+/* .φdg {
   width: 299px !important;
 }
 
@@ -10,22 +10,22 @@ html {
   .φm {
     min-width: 830px !important;
   }
-}
+} */
 
 .vmeta > span.vat {
   font-size: 0.95rem !important;
   color: #7c46dd !important;
 }
 
-.φdq.φdr {
+/* .φdq.φdr {
   width: 300px !important;
-}
+} */
 
 #sunflower {
   font-size: 1.2rem;
   cursor: pointer;
-}
+/* }
 
 is-r.φet {
   transform: translateX(25px);
-}
+} */
