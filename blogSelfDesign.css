@@ -1,19 +1,23 @@
 @media (min-width: 676px) {
   html {
-    font-size: 16px !important;
+    font-size: 15px !important;
   }
 
   .φm {
-    min-width: 900px !important;
-    transform: translateX(-40px);
+    min-width: 715px !important;
+    transform: translateY(-10px);
   }
 
   .φn {
-    transform: translateX(50px);
+    transform: translateX(15px);
   }
 
   .φdg {
     width: 320px !important;
+  }
+
+  .φdq.φdr {
+    width: 300px !important;
   }
 }
 
@@ -21,10 +25,6 @@
   font-size: 0.95rem !important;
   color: #7c46dd !important;
 }
-
-/* .φdq.φdr {
-  width: 300px !important;
-} */
 
 #sunflower {
   font-size: 1.2rem;
