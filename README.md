@@ -1,1 +1,1 @@
-用到的一些云资源组件,放Jsdelivr上CDN加速
+用到的一些云资源组件,github托管,放Jsdelivr上CDN加速
